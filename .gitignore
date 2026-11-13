@@ -1,0 +1,5 @@
+# Public repo (miorek-lab): publish ONLY the static site in docs/.
+# Everything else (audio, video, scripts, tracks) stays local.
+/*
+!/.gitignore
+!/docs/

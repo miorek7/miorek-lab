@@ -1,0 +1,38 @@
+# MIOREK LAB // CLINICAL SPEC ARCHIVE
+
+> Independent, never-sponsored head-to-head spec comparisons. Each entry: 4-spec matrix with winner, one fatal flaw per product, and a buy-if verdict.
+
+## Oura Ring 4 vs Galaxy Ring (WEARABLE TECH) — https://miorek7.github.io/miorek-lab/#01_smart_rings
+- Prices (USD list): Oura Ring 4 $349; Galaxy Ring $399
+- Subscription Fee: Oura Ring 4 = $5.99 / mo ($72/yr); Galaxy Ring = $0 (Free Forever); winner: Galaxy Ring. Oura costs $565+ over 3 years. Galaxy Ring has zero recurring fees.
+- OS Compatibility: Oura Ring 4 = iOS & Android; Galaxy Ring = Android Only (Best w/ Samsung); winner: Oura Ring 4. iPhone users cannot use Galaxy Ring at all.
+- Sleep & Recovery Algorithm: Oura Ring 4 = Clinical-Grade (Recessed Sensors); Galaxy Ring = Good, Basic AI Coaching; winner: Oura Ring 4. Oura's illness detection and HRV accuracy still lead the market.
+- Charging Case: Oura Ring 4 = Flat Desk Dock Only; Galaxy Ring = Portable Battery Case (LED); winner: Galaxy Ring. Samsung gives you a true wireless earbud-style travel charger.
+- Fatal flaw, Oura Ring 4: Useless paperweight without paying the $5.99/mo membership.
+- Fatal flaw, Galaxy Ring: Completely locked out of iOS; core AI features require a Galaxy phone.
+- Buy Oura Ring 4 if: You use an iPhone OR want the most accurate sleep/recovery data money can buy.
+- Buy Galaxy Ring if: You use Android/Samsung and refuse to pay a monthly subscription for your own body data.
+
+## Sony WF-1000XM5 vs Technics EAH-AZ80 (AUDIOPHILE / BINAURAL TEST) — https://miorek7.github.io/miorek-lab/#02_flagship_tws
+- Prices (USD list): Sony WF-1000XM5 $298; Technics EAH-AZ80 $299
+- Active Noise Cancelling: Sony WF-1000XM5 = Industry #1 (Foam Tips); Technics EAH-AZ80 = Top-Tier (Silicone Tips); winner: Sony WF-1000XM5. Sony deletes low-end subway and cabin rumble more aggressively.
+- Binaural L/R Separation: Sony WF-1000XM5 = Warm, Center-Focused; Technics EAH-AZ80 = 10mm Free-Edge Wide Stage; winner: Technics EAH-AZ80. Technics reveals pinpoint Left/Right instrument layering without mud.
+- Multipoint Connection: Sony WF-1000XM5 = 2 Devices Max; Technics EAH-AZ80 = 3 Devices Simultaneously; winner: Technics EAH-AZ80. AZ80 switches between PC, Phone, and Tablet seamlessly.
+- Ear Tip Comfort & Durability: Sony WF-1000XM5 = Polyurethane (Degrades in 6mo); Technics EAH-AZ80 = 7 Sizes Medical Silicone; winner: Technics EAH-AZ80. Sony's stock foam tips trap sweat and crumble over time.
+- Fatal flaw, Sony WF-1000XM5: Glossy slippery shell is easy to drop; stock foam tips wear out fast.
+- Fatal flaw, Technics EAH-AZ80: Slightly larger charging case and less aggressive high-frequency ANC than Sony.
+- Buy Sony WF-1000XM5 if: You prioritize maximum noise isolation on flights and heavy bass punch.
+- Buy Technics EAH-AZ80 if: You want audiophile Left/Right separation, 3-way multipoint, and all-day comfort.
+
+## Anker Prime 200W vs UGREEN Nexode 130W (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#03_power_banks
+- Prices (USD list): Anker Prime 200W $129; UGREEN Nexode 130W $89
+- Total Dual-Port Output: Anker Prime 200W = 200W Max (100W + 100W); UGREEN Nexode 130W = 130W Max (100W + 30W); winner: Anker Prime 200W. Anker can fast-charge TWO MacBook Pros at full speed simultaneously.
+- Recharging Input Speed: Anker Prime 200W = 100W USB-C (or Pogo Base); UGREEN Nexode 130W = 65W USB-C Input; winner: Anker Prime 200W. Anker hits 100% in ~75 mins; UGREEN takes nearly 2 hours.
+- Price-to-Performance: Anker Prime 200W = $129.99 ($0.65 / Watt); UGREEN Nexode 130W = $89.99 (Frequently $69); winner: UGREEN Nexode 130W. Single-laptop users save $40+ with UGREEN while keeping 100W single-port speed.
+- Smart Display & App: Anker Prime 200W = Full Telemetry + Bluetooth App; UGREEN Nexode 130W = TFT Voltage/Wattage Curve; winner: Anker Prime 200W. Anker tracks real-time battery health and locates the bank via Bluetooth app; UGREEN only shows basic wattage.
+- Fatal flaw, Anker Prime 200W: Expensive; pogo-pin charging base is sold separately.
+- Fatal flaw, UGREEN Nexode 130W: Drops second USB-C port to 30W when main port pulls 100W.
+- Buy Anker Prime 200W if: You carry two high-draw devices (MacBook + gaming handheld) and want 100W fast recharge.
+- Buy UGREEN Nexode 130W if: You only need to charge ONE laptop + a phone and want the best value under $90.
+
+As an Amazon Associate, MIOREK LAB earns from qualifying purchases. Independent lab analysis — never sponsored.
