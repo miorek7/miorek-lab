@@ -14,7 +14,7 @@
 - Buy Galaxy Ring if: You use Android/Samsung and refuse to pay a monthly subscription for your own body data.
 
 ## Sony WF-1000XM5 vs Technics EAH-AZ80 (AUDIOPHILE / BINAURAL TEST) — https://miorek7.github.io/miorek-lab/#02_flagship_tws
-- Prices (USD list): Sony WF-1000XM5 $298; Technics EAH-AZ80 $299
+- Prices (USD list): Sony WF-1000XM5 $299; Technics EAH-AZ80 $299
 - Active Noise Cancelling: Sony WF-1000XM5 = Industry #1 (Foam Tips); Technics EAH-AZ80 = Top-Tier (Silicone Tips); winner: Sony WF-1000XM5. Sony deletes low-end subway and cabin rumble more aggressively.
 - Binaural L/R Separation: Sony WF-1000XM5 = Warm, Center-Focused; Technics EAH-AZ80 = 10mm Free-Edge Wide Stage; winner: Technics EAH-AZ80. Technics reveals pinpoint Left/Right instrument layering without mud.
 - Multipoint Connection: Sony WF-1000XM5 = 2 Devices Max; Technics EAH-AZ80 = 3 Devices Simultaneously; winner: Technics EAH-AZ80. AZ80 switches between PC, Phone, and Tablet seamlessly.
@@ -28,11 +28,33 @@
 - Prices (USD list): Anker Prime 200W $129; UGREEN Nexode 130W $89
 - Total Dual-Port Output: Anker Prime 200W = 200W Max (100W + 100W); UGREEN Nexode 130W = 130W Max (100W + 30W); winner: Anker Prime 200W. Anker can fast-charge TWO MacBook Pros at full speed simultaneously.
 - Recharging Input Speed: Anker Prime 200W = 100W USB-C (or Pogo Base); UGREEN Nexode 130W = 65W USB-C Input; winner: Anker Prime 200W. Anker hits 100% in ~75 mins; UGREEN takes nearly 2 hours.
-- Price-to-Performance: Anker Prime 200W = $129.99 ($0.65 / Watt); UGREEN Nexode 130W = $89.99 (Frequently $69); winner: UGREEN Nexode 130W. Single-laptop users save $40+ with UGREEN while keeping 100W single-port speed.
+- Price-to-Performance: Anker Prime 200W = $129 ($0.65 / Watt); UGREEN Nexode 130W = $89 (Frequently $69); winner: UGREEN Nexode 130W. Single-laptop users save $40+ with UGREEN while keeping 100W single-port speed.
 - Smart Display & App: Anker Prime 200W = Full Telemetry + Bluetooth App; UGREEN Nexode 130W = TFT Voltage/Wattage Curve; winner: Anker Prime 200W. Anker tracks real-time battery health and locates the bank via Bluetooth app; UGREEN only shows basic wattage.
 - Fatal flaw, Anker Prime 200W: Expensive; pogo-pin charging base is sold separately.
 - Fatal flaw, UGREEN Nexode 130W: Drops second USB-C port to 30W when main port pulls 100W.
 - Buy Anker Prime 200W if: You carry two high-draw devices (MacBook + gaming handheld) and want 100W fast recharge.
 - Buy UGREEN Nexode 130W if: You only need to charge ONE laptop + a phone and want the best value under $90.
+
+## Sony WH-1000XM5 vs Bose QC Ultra (AUDIOPHILE / BINAURAL TEST) — https://miorek7.github.io/miorek-lab/#04_anc_headphones
+- Prices (USD list): Sony WH-1000XM5 $399; Bose QC Ultra $429
+- Foldability & Build: Sony WH-1000XM5 = Does NOT Fold (Weak Hinge); Bose QC Ultra = Folds Compact + Metal Yoke; winner: Bose QC Ultra. Sony's non-folding plastic hinge is notorious for snapping in backpacks.
+- Microphone Call Quality: Sony WH-1000XM5 = 8-Mic AI Beamforming (#1); Bose QC Ultra = Muffled in Windy Streets; winner: Sony WH-1000XM5. Sony isolates your voice in loud cafes far better than Bose.
+- Spatial / Binaural Stage: Sony WH-1000XM5 = Narrower, Bass-Forward; Bose QC Ultra = Bose Immersive Audio (Wide); winner: Bose QC Ultra. Bose creates a wider out-of-head 3D soundstage for binaural tracks.
+- Battery Life (ANC On): Sony WH-1000XM5 = 30 Hours (+3min Quick Charge); Bose QC Ultra = 24 Hours (18h w/ Immersive); winner: Sony WH-1000XM5. Sony lasts a full trans-Pacific flight longer on a single charge.
+- Fatal flaw, Sony WH-1000XM5: Bulky carrying case doesn't fold; shallow earcups touch larger ears.
+- Fatal flaw, Bose QC Ultra: Slight audible white-noise floor in quiet rooms; $30 more expensive.
+- Buy Sony WH-1000XM5 if: You take frequent work calls and want 30-hour battery life for $30 less.
+- Buy Bose QC Ultra if: You value plush folding comfort, superior build, and wide spatial audio.
+
+## Logitech MX Master 3S vs Keychron M6 (1000Hz) (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#06_productivity_mice
+- Prices (USD list): Logitech MX Master 3S $99; Keychron M6 (1000Hz) $49
+- Polling Rate & Sensor: Logitech MX Master 3S = 125Hz (Choppy on 120Hz+ Screens); Keychron M6 (1000Hz) = 1000Hz PixArt 3395 (Gaming Grade); winner: Keychron M6 (1000Hz). MX Master feels laggy on high-refresh monitors; Keychron is butter-smooth.
+- Weight & Shell Material: Logitech MX Master 3S = 141g (Soft Rubber Degrades); Keychron M6 (1000Hz) = 78g (Std) / 86g (Metal Wheel); winner: Keychron M6 (1000Hz). Logitech's rubber coating turns sticky after 1-2 years of sweat.
+- Scroll Wheel Precision: Logitech MX Master 3S = MagSpeed Electromagnetic (#1); Keychron M6 (1000Hz) = Mechanical Infinite Scroll (Loud); winner: Logitech MX Master 3S. Nothing beats Logitech's silent metal wheel for 10,000-line spreadsheets.
+- Price & Software: Logitech MX Master 3S = $99 (Bloated Logi Options+); Keychron M6 (1000Hz) = $49 (Half the Price); winner: Keychron M6 (1000Hz). Keychron gives you dual scroll wheels and a 3395 sensor for $50 less.
+- Fatal flaw, Logitech MX Master 3S: Heavy 141g brick locked at 125Hz polling rate; rubber coating melts over time.
+- Fatal flaw, Keychron M6 (1000Hz): Hollow plastic feel and noisy scroll wheel compared to Logitech's metal build.
+- Buy Logitech MX Master 3S if: You use a 60Hz office screen and care most about silent electromagnetic scrolling.
+- Buy Keychron M6 (1000Hz) if: You use a 120Hz+ monitor, hate heavy mice, and want gaming precision for work.
 
 As an Amazon Associate, MIOREK LAB earns from qualifying purchases. Independent lab analysis — never sponsored.
