@@ -46,6 +46,17 @@
 - Buy Sony WH-1000XM5 if: You take frequent work calls and want 30-hour battery life for $30 less.
 - Buy Bose QC Ultra if: You value plush folding comfort, superior build, and wide spatial audio.
 
+## BenQ ScreenBar Pro vs Quntis ScreenLinear Pro+ (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#05_monitor_lights
+- Prices (USD list): BenQ ScreenBar Pro $139; Quntis ScreenLinear Pro+ $69
+- Auto-Presence Sensor: BenQ ScreenBar Pro = Ultrasonic Motion Sensor (Auto On/Off); Quntis ScreenLinear Pro+ = No Presence Sensor (Remote + Auto-Dim); winner: BenQ ScreenBar Pro. BenQ turns on automatically when you sit down and off when you leave.
+- Published Brightness: BenQ ScreenBar Pro = 1000+ Lux Center, 85x50cm @500 Lux; Quntis ScreenLinear Pro+ = 700-1200 Lux (Varies by Listing); winner: BenQ ScreenBar Pro. BenQ officially rates 1000+ lux with an 85x50cm 500-lux zone; Quntis brightness claims vary by listing.
+- Controls: BenQ ScreenBar Pro = Touch Controls on the Bar; Quntis ScreenLinear Pro+ = Wireless Remote Controller; winner: Quntis ScreenLinear Pro+. Quntis puts dimming on a wireless remote you keep on the desk; ScreenBar Pro is adjusted on the bar itself.
+- Price-to-Value Ratio: BenQ ScreenBar Pro = $139; Quntis ScreenLinear Pro+ = $69 (Remote Included); winner: Quntis ScreenLinear Pro+. Quntis costs about half as much and still includes a wireless remote.
+- Fatal flaw, BenQ ScreenBar Pro: Costs twice as much as the Quntis; no wireless remote dial on the Pro model.
+- Fatal flaw, Quntis ScreenLinear Pro+: No presence sensor, and its brightness figures vary between listings.
+- Buy BenQ ScreenBar Pro if: You want automatic on/off presence sensing and officially rated 1000+ lux coverage.
+- Buy Quntis ScreenLinear Pro+ if: You want a remote-controlled monitor light for about half the price.
+
 ## Logitech MX Master 3S vs Keychron M6 (1000Hz) (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#06_productivity_mice
 - Prices (USD list): Logitech MX Master 3S $99; Keychron M6 (1000Hz) $49
 - Polling Rate & Sensor: Logitech MX Master 3S = 125Hz (Choppy on 120Hz+ Screens); Keychron M6 (1000Hz) = 1000Hz PixArt 3395 (Gaming Grade); winner: Keychron M6 (1000Hz). MX Master feels laggy on high-refresh monitors; Keychron is butter-smooth.
@@ -56,5 +67,27 @@
 - Fatal flaw, Keychron M6 (1000Hz): Hollow plastic feel and noisy scroll wheel compared to Logitech's metal build.
 - Buy Logitech MX Master 3S if: You use a 60Hz office screen and care most about silent electromagnetic scrolling.
 - Buy Keychron M6 (1000Hz) if: You use a 120Hz+ monitor, hate heavy mice, and want gaming precision for work.
+
+## Wooting 60HE+ vs Razer Huntsman V3 Pro Mini (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#07_hall_effect_keyboards
+- Prices (USD list): Wooting 60HE+ $154; Razer Huntsman V3 Pro Mini $179
+- Software & Onboarding: Wooting 60HE+ = Wootility Web App (0MB Install); Razer Huntsman V3 Pro Mini = Razer Synapse (Heavy Background); winner: Wooting 60HE+. Wooting configures entirely in your browser and saves directly to onboard memory.
+- Switch Sound & Feel: Wooting 60HE+ = Lekker Magnetic (Mod-Friendly); Razer Huntsman V3 Pro Mini = Gen-2 Analog Optical (Rattly); winner: Wooting 60HE+. Wooting sounds and feels like a custom mechanical keyboard out of the box.
+- Availability: Wooting 60HE+ = Wooting Store Only / Often Sold Out; Razer Huntsman V3 Pro Mini = Widely Stocked incl. Amazon; winner: Razer Huntsman V3 Pro Mini. Razer ships fast with easy Amazon returns; the 60HE+ is being phased out for the 60HE v2.
+- List Price: Wooting 60HE+ = $154 (Wooting Store); Razer Huntsman V3 Pro Mini = $179 (Razer MSRP); winner: Wooting 60HE+. Wooting is $25 cheaper at list price, when it's in stock.
+- Fatal flaw, Wooting 60HE+: Sold only through Wooting's store, often sold out, and being phased out for the 60HE v2.
+- Fatal flaw, Razer Huntsman V3 Pro Mini: Hollow pinging acoustics and requires Razer Synapse for full profile management.
+- Buy Wooting 60HE+ if: You want the Rapid Trigger favorite with zero bloatware software and can wait for stock.
+- Buy Razer Huntsman V3 Pro Mini if: You want instant Amazon Prime delivery and warranty without waiting for restocks.
+
+## Fanttik E1 Max Electric vs HOTO 24-in-1 Pen Driver (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#08_precision_screwdrivers
+- Prices (USD list): Fanttik E1 Max Electric $79; HOTO 24-in-1 Pen Driver $19
+- Drive Mechanism: Fanttik E1 Max Electric = 200 RPM Electric (0.05 / 0.2Nm Modes); HOTO 24-in-1 Pen Driver = Manual Hand-Turn Only (Zero Battery); winner: Fanttik E1 Max Electric. Fanttik spins out long laptop screws effortlessly; HOTO never needs charging.
+- Bit Quantity & Storage: Fanttik E1 Max Electric = 50 Magnetic Bits (Pop-Up Case); HOTO 24-in-1 Pen Driver = 24-in-1 (12 Double-Ended in Handle); winner: Fanttik E1 Max Electric. Fanttik covers nearly every console and PC bit; HOTO packs 24 tips inside the pen.
+- Pocket Portability: Fanttik E1 Max Electric = Bulky Separate Case + Driver; HOTO 24-in-1 Pen Driver = 60g Single Pen Body (Pocket-Ready); winner: HOTO 24-in-1 Pen Driver. HOTO weighs just 60g with all bits hidden inside the barrel.
+- Work Light (Shadowless): Fanttik E1 Max Electric = Built-in LED Light; HOTO 24-in-1 Pen Driver = No LED Light; winner: Fanttik E1 Max Electric. Working inside dark PC cases is vastly easier with Fanttik's LED illumination.
+- Fatal flaw, Fanttik E1 Max Electric: Wider pop-up case takes up more space; 0.2Nm motor isn't meant for heavy desktop chassis screws.
+- Fatal flaw, HOTO 24-in-1 Pen Driver: Manual-only with no motor or LED light; double-ended bits are shorter for deep recessed holes.
+- Buy Fanttik E1 Max Electric if: You repair electronics regularly and want 50 bits with motorized speed and an LED light.
+- Buy HOTO 24-in-1 Pen Driver if: You want a $19 ultra-light 60g pen driver that lives in your pocket and never needs charging.
 
 As an Amazon Associate, MIOREK LAB earns from qualifying purchases. Independent lab analysis — never sponsored.
