@@ -25,11 +25,11 @@
 - Buy Technics EAH-AZ80 if: You want audiophile Left/Right separation, 3-way multipoint, and all-day comfort.
 
 ## Anker Prime 200W vs UGREEN Nexode 130W (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#03_power_banks
-- Prices (USD list): Anker Prime 200W $129; UGREEN Nexode 130W $89
+- Prices (USD list): Anker Prime 200W $139; UGREEN Nexode 130W $89
 - Total Dual-Port Output: Anker Prime 200W = 200W Max (100W + 100W); UGREEN Nexode 130W = 130W Max (100W + 30W); winner: Anker Prime 200W. Anker can fast-charge TWO MacBook Pros at full speed simultaneously.
 - Recharging Input Speed: Anker Prime 200W = 100W USB-C (or Pogo Base); UGREEN Nexode 130W = 65W USB-C Input; winner: Anker Prime 200W. Anker hits 100% in ~75 mins; UGREEN takes nearly 2 hours.
-- Price-to-Performance: Anker Prime 200W = $129 ($0.65 / Watt); UGREEN Nexode 130W = $89 (Frequently $69); winner: UGREEN Nexode 130W. Single-laptop users save $40+ with UGREEN while keeping 100W single-port speed.
-- Smart Display & App: Anker Prime 200W = Full Telemetry + Bluetooth App; UGREEN Nexode 130W = TFT Voltage/Wattage Curve; winner: Anker Prime 200W. Anker tracks real-time battery health and locates the bank via Bluetooth app; UGREEN only shows basic wattage.
+- Price-to-Performance: Anker Prime 200W = $139 ($0.70 / Watt); UGREEN Nexode 130W = $89 (Often on Sale); winner: UGREEN Nexode 130W. Single-laptop users save $50 with UGREEN while keeping 100W single-port speed.
+- Smart Display & App: Anker Prime 200W = Smart Display + Bluetooth App; UGREEN Nexode 130W = Smart Display Only (No App); winner: Anker Prime 200W. Anker's Bluetooth app shows detailed charging stats; UGREEN shows live wattage on its screen only.
 - Fatal flaw, Anker Prime 200W: Expensive; pogo-pin charging base is sold separately.
 - Fatal flaw, UGREEN Nexode 130W: Drops second USB-C port to 30W when main port pulls 100W.
 - Buy Anker Prime 200W if: You carry two high-draw devices (MacBook + gaming handheld) and want 100W fast recharge.
