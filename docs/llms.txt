@@ -35,16 +35,16 @@
 - Buy Anker Prime 200W if: You carry two high-draw devices (MacBook + gaming handheld) and want 100W fast recharge.
 - Buy UGREEN Nexode 130W if: You only need to charge ONE laptop + a phone and want the best value under $90.
 
-## Sony WH-1000XM5 vs Bose QC Ultra (AUDIOPHILE / BINAURAL TEST) — https://miorek7.github.io/miorek-lab/#04_anc_headphones
-- Prices (USD list): Sony WH-1000XM5 $399; Bose QC Ultra $429
-- Foldability & Build: Sony WH-1000XM5 = Does NOT Fold (Weak Hinge); Bose QC Ultra = Folds Compact + Metal Yoke; winner: Bose QC Ultra. Sony's non-folding plastic hinge is notorious for snapping in backpacks.
-- Microphone Call Quality: Sony WH-1000XM5 = 8-Mic AI Beamforming (#1); Bose QC Ultra = Muffled in Windy Streets; winner: Sony WH-1000XM5. Sony isolates your voice in loud cafes far better than Bose.
-- Spatial / Binaural Stage: Sony WH-1000XM5 = Narrower, Bass-Forward; Bose QC Ultra = Bose Immersive Audio (Wide); winner: Bose QC Ultra. Bose creates a wider out-of-head 3D soundstage for binaural tracks.
-- Battery Life (ANC On): Sony WH-1000XM5 = 30 Hours (+3min Quick Charge); Bose QC Ultra = 24 Hours (18h w/ Immersive); winner: Sony WH-1000XM5. Sony lasts a full trans-Pacific flight longer on a single charge.
-- Fatal flaw, Sony WH-1000XM5: Bulky carrying case doesn't fold; shallow earcups touch larger ears.
-- Fatal flaw, Bose QC Ultra: Slight audible white-noise floor in quiet rooms; $30 more expensive.
-- Buy Sony WH-1000XM5 if: You take frequent work calls and want 30-hour battery life for $30 less.
-- Buy Bose QC Ultra if: You value plush folding comfort, superior build, and wide spatial audio.
+## Sony WH-1000XM5 vs Bose QC Ultra (2nd Gen) (AUDIOPHILE / BINAURAL TEST) — https://miorek7.github.io/miorek-lab/#04_anc_headphones
+- Prices (USD list): Sony WH-1000XM5 $399; Bose QC Ultra (2nd Gen) $449
+- Foldability & Build: Sony WH-1000XM5 = Does NOT Fold (Weak Hinge); Bose QC Ultra (2nd Gen) = Folds Flat & Compact; winner: Bose QC Ultra (2nd Gen). Sony's non-folding hinge is a common failure point when stuffed in backpacks.
+- Microphone Call Quality: Sony WH-1000XM5 = 4 Beamforming Mics + AI Noise Reduction; Bose QC Ultra (2nd Gen) = Good Indoors, Weaker in Noise; winner: Sony WH-1000XM5. Sony's AI voice pickup isolates your voice better in loud cafes and streets.
+- Spatial / Binaural Stage: Sony WH-1000XM5 = Narrower, Bass-Forward; Bose QC Ultra (2nd Gen) = Bose Immersive Audio (Wide); winner: Bose QC Ultra (2nd Gen). Bose creates a wider out-of-head 3D soundstage for binaural tracks.
+- List Price: Sony WH-1000XM5 = $399 (Sony MSRP); Bose QC Ultra (2nd Gen) = $449 (Bose MSRP); winner: Sony WH-1000XM5. Same 30-hour ANC battery rating, but Sony costs $50 less at list.
+- Fatal flaw, Sony WH-1000XM5: Bulky carrying case because it doesn't fold; shallow earcups touch larger ears.
+- Fatal flaw, Bose QC Ultra (2nd Gen): $50 more expensive, and Immersive Audio cuts battery to as little as 18 hours.
+- Buy Sony WH-1000XM5 if: You take frequent work calls and want flagship ANC for $50 less.
+- Buy Bose QC Ultra (2nd Gen) if: You value a folding design, plush comfort, and wide spatial audio.
 
 ## BenQ ScreenBar Pro vs Quntis ScreenLinear Pro+ (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#05_monitor_lights
 - Prices (USD list): BenQ ScreenBar Pro $139; Quntis ScreenLinear Pro+ $69
