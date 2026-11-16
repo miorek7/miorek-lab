@@ -48,13 +48,13 @@
 
 ## BenQ ScreenBar Pro vs Quntis ScreenLinear Pro+ (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#05_monitor_lights
 - Prices (USD list): BenQ ScreenBar Pro $139; Quntis ScreenLinear Pro+ $69
-- Auto-Presence Sensor: BenQ ScreenBar Pro = Ultrasonic Motion Sensor (Auto On/Off); Quntis ScreenLinear Pro+ = No Presence Sensor (Remote + Auto-Dim); winner: BenQ ScreenBar Pro. BenQ turns on automatically when you sit down and off when you leave.
-- Published Brightness: BenQ ScreenBar Pro = 1000+ Lux Center, 85x50cm @500 Lux; Quntis ScreenLinear Pro+ = 700-1200 Lux (Varies by Listing); winner: BenQ ScreenBar Pro. BenQ officially rates 1000+ lux with an 85x50cm 500-lux zone; Quntis brightness claims vary by listing.
-- Controls: BenQ ScreenBar Pro = Touch Controls on the Bar; Quntis ScreenLinear Pro+ = Wireless Remote Controller; winner: Quntis ScreenLinear Pro+. Quntis puts dimming on a wireless remote you keep on the desk; ScreenBar Pro is adjusted on the bar itself.
+- Auto-Presence Sensor: BenQ ScreenBar Pro = Presence Sensor (Auto On/Off); Quntis ScreenLinear Pro+ = No Presence Sensor (Remote Control); winner: BenQ ScreenBar Pro. BenQ turns on automatically when you sit down and off when you leave.
+- Published Brightness: BenQ ScreenBar Pro = 1000 Lux Center, 85x50cm Coverage; Quntis ScreenLinear Pro+ = 700-1200 Lux (Varies by Listing); winner: BenQ ScreenBar Pro. BenQ rates 1000 lux at center over an 85x50cm area; Quntis brightness claims vary by listing.
+- Controls: BenQ ScreenBar Pro = On-Bar Controls (No Remote); Quntis ScreenLinear Pro+ = Wireless Remote Controller; winner: Quntis ScreenLinear Pro+. Quntis puts dimming on a wireless remote you keep on the desk; ScreenBar Pro is adjusted on the bar itself.
 - Price-to-Value Ratio: BenQ ScreenBar Pro = $139; Quntis ScreenLinear Pro+ = $69 (Remote Included); winner: Quntis ScreenLinear Pro+. Quntis costs about half as much and still includes a wireless remote.
 - Fatal flaw, BenQ ScreenBar Pro: Costs twice as much as the Quntis; no wireless remote dial on the Pro model.
 - Fatal flaw, Quntis ScreenLinear Pro+: No presence sensor, and its brightness figures vary between listings.
-- Buy BenQ ScreenBar Pro if: You want automatic on/off presence sensing and officially rated 1000+ lux coverage.
+- Buy BenQ ScreenBar Pro if: You want automatic on/off presence sensing and officially rated 1000-lux center brightness.
 - Buy Quntis ScreenLinear Pro+ if: You want a remote-controlled monitor light for about half the price.
 
 ## Logitech MX Master 3S vs Keychron M6 (1000Hz) (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#06_productivity_mice
