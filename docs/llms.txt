@@ -57,16 +57,16 @@
 - Buy BenQ ScreenBar Pro if: You want automatic on/off presence sensing and officially rated 1000-lux center brightness.
 - Buy Quntis ScreenLinear Pro+ if: You want a remote-controlled monitor light for about half the price.
 
-## Logitech MX Master 3S vs Keychron M6 (1000Hz) (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#06_productivity_mice
+## Logitech MX Master 3S vs Keychron M6 (1000Hz) (DESK SETUP / MICE) — https://miorek7.github.io/miorek-lab/#06_productivity_mice
 - Prices (USD list): Logitech MX Master 3S $99; Keychron M6 (1000Hz) $49
-- Polling Rate & Sensor: Logitech MX Master 3S = 125Hz (Choppy on 120Hz+ Screens); Keychron M6 (1000Hz) = 1000Hz PixArt 3395 (Gaming Grade); winner: Keychron M6 (1000Hz). MX Master feels laggy on high-refresh monitors; Keychron is butter-smooth.
-- Weight & Shell Material: Logitech MX Master 3S = 141g (Soft Rubber Degrades); Keychron M6 (1000Hz) = 78g (Std) / 86g (Metal Wheel); winner: Keychron M6 (1000Hz). Logitech's rubber coating turns sticky after 1-2 years of sweat.
-- Scroll Wheel Precision: Logitech MX Master 3S = MagSpeed Electromagnetic (#1); Keychron M6 (1000Hz) = Mechanical Infinite Scroll (Loud); winner: Logitech MX Master 3S. Nothing beats Logitech's silent metal wheel for 10,000-line spreadsheets.
-- Price & Software: Logitech MX Master 3S = $99 (Bloated Logi Options+); Keychron M6 (1000Hz) = $49 (Half the Price); winner: Keychron M6 (1000Hz). Keychron gives you dual scroll wheels and a 3395 sensor for $50 less.
-- Fatal flaw, Logitech MX Master 3S: Heavy 141g brick locked at 125Hz polling rate; rubber coating melts over time.
-- Fatal flaw, Keychron M6 (1000Hz): Hollow plastic feel and noisy scroll wheel compared to Logitech's metal build.
-- Buy Logitech MX Master 3S if: You use a 60Hz office screen and care most about silent electromagnetic scrolling.
-- Buy Keychron M6 (1000Hz) if: You use a 120Hz+ monitor, hate heavy mice, and want gaming precision for work.
+- Polling Rate & Sensor: Logitech MX Master 3S = 125Hz (Measured, Not Published); Keychron M6 (1000Hz) = 1000Hz PixArt 3395; winner: Keychron M6 (1000Hz). At 125Hz the MX reports position 8x less often than the Keychron's 1000Hz.
+- Weight: Logitech MX Master 3S = 141g; Keychron M6 (1000Hz) = 78-86g (Varies by Version); winner: Keychron M6 (1000Hz). Keychron is at least 55g lighter, depending on the version you buy.
+- Scroll Wheel: Logitech MX Master 3S = MagSpeed Electromagnetic; Keychron M6 (1000Hz) = Infinite Scroll + Side Wheel; winner: Logitech MX Master 3S. Logitech rates MagSpeed at 1,000 lines per second and precise enough to stop on a pixel.
+- List Price: Logitech MX Master 3S = $99 (Logitech MSRP); Keychron M6 (1000Hz) = $49 (Keychron List); winner: Keychron M6 (1000Hz). Keychron costs $50 less and still has a side wheel and a 3395 sensor.
+- Fatal flaw, Logitech MX Master 3S: 141g and a 125Hz report rate; heavy and slow-reporting next to gaming-grade mice.
+- Fatal flaw, Keychron M6 (1000Hz): Weight, polling and sensor differ by version, so check the exact SKU before buying.
+- Buy Logitech MX Master 3S if: You want MagSpeed electromagnetic scrolling and Easy-Switch across three devices.
+- Buy Keychron M6 (1000Hz) if: You use a 120Hz+ monitor and want a lighter 1000Hz mouse for half the price.
 
 ## Wooting 60HE+ vs Razer Huntsman V3 Pro Mini (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#07_hall_effect_keyboards
 - Prices (USD list): Wooting 60HE+ $154; Razer Huntsman V3 Pro Mini $179
