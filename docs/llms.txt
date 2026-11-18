@@ -68,16 +68,16 @@
 - Buy Logitech MX Master 3S if: You want MagSpeed electromagnetic scrolling and Easy-Switch across three devices.
 - Buy Keychron M6 (1000Hz) if: You use a 120Hz+ monitor and want a lighter 1000Hz mouse for half the price.
 
-## Wooting 60HE+ vs Razer Huntsman V3 Pro Mini (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#07_hall_effect_keyboards
+## Wooting 60HE+ vs Razer Huntsman V3 Pro Mini (DESK SETUP / KEYBOARDS) — https://miorek7.github.io/miorek-lab/#07_hall_effect_keyboards
 - Prices (USD list): Wooting 60HE+ $154; Razer Huntsman V3 Pro Mini $179
-- Software & Onboarding: Wooting 60HE+ = Wootility Web App (0MB Install); Razer Huntsman V3 Pro Mini = Razer Synapse (Heavy Background); winner: Wooting 60HE+. Wooting configures entirely in your browser and saves directly to onboard memory.
-- Switch Sound & Feel: Wooting 60HE+ = Lekker Magnetic (Mod-Friendly); Razer Huntsman V3 Pro Mini = Gen-2 Analog Optical (Rattly); winner: Wooting 60HE+. Wooting sounds and feels like a custom mechanical keyboard out of the box.
-- Availability: Wooting 60HE+ = Wooting Store Only / Often Sold Out; Razer Huntsman V3 Pro Mini = Widely Stocked incl. Amazon; winner: Razer Huntsman V3 Pro Mini. Razer ships fast with easy Amazon returns; the 60HE+ is being phased out for the 60HE v2.
+- Software: Wooting 60HE+ = Wootility (Runs in Browser); Razer Huntsman V3 Pro Mini = Razer Synapse (Desktop App); winner: Wooting 60HE+. Wootility configures the board from a web browser; Razer's full settings need the Synapse app.
+- Case Material: Wooting 60HE+ = ABS Plastic Case (605g); Razer Huntsman V3 Pro Mini = 5052 Aluminum Top Case; winner: Razer Huntsman V3 Pro Mini. Razer uses a brushed 5052 aluminum top case; the 60HE+ case is ABS plastic.
+- Availability: Wooting 60HE+ = Sold Out on Wooting US Store; Razer Huntsman V3 Pro Mini = Stocked at Major Retailers; winner: Razer Huntsman V3 Pro Mini. Wooting's US store lists the 60HE+ as sold out; its successor, the 60HE v2, lists at $239.99.
 - List Price: Wooting 60HE+ = $154 (Wooting Store); Razer Huntsman V3 Pro Mini = $179 (Razer MSRP); winner: Wooting 60HE+. Wooting is $25 cheaper at list price, when it's in stock.
-- Fatal flaw, Wooting 60HE+: Sold only through Wooting's store, often sold out, and being phased out for the 60HE v2.
-- Fatal flaw, Razer Huntsman V3 Pro Mini: Hollow pinging acoustics and requires Razer Synapse for full profile management.
-- Buy Wooting 60HE+ if: You want the Rapid Trigger favorite with zero bloatware software and can wait for stock.
-- Buy Razer Huntsman V3 Pro Mini if: You want instant Amazon Prime delivery and warranty without waiting for restocks.
+- Fatal flaw, Wooting 60HE+: Sold out on Wooting's US store with an ABS plastic case; the successor 60HE v2 lists at $239.99.
+- Fatal flaw, Razer Huntsman V3 Pro Mini: Costs $25 more, and full profile control needs the Razer Synapse desktop app.
+- Buy Wooting 60HE+ if: You want the lower list price and browser-based Wootility setup, and can wait for stock.
+- Buy Razer Huntsman V3 Pro Mini if: You want an aluminum top case and a keyboard you can buy at retailers today.
 
 ## Fanttik E1 Max Electric vs HOTO 24-in-1 Pen Driver (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#08_precision_screwdrivers
 - Prices (USD list): Fanttik E1 Max Electric $79; HOTO 24-in-1 Pen Driver $19
