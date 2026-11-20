@@ -79,15 +79,15 @@
 - Buy Wooting 60HE+ if: You want the lower list price and browser-based Wootility setup, and can wait for stock.
 - Buy Razer Huntsman V3 Pro Mini if: You want an aluminum top case and a keyboard you can buy at retailers today.
 
-## Fanttik E1 Max Electric vs HOTO 24-in-1 Pen Driver (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#08_precision_screwdrivers
-- Prices (USD list): Fanttik E1 Max Electric $79; HOTO 24-in-1 Pen Driver $19
-- Drive Mechanism: Fanttik E1 Max Electric = 200 RPM Electric (0.05 / 0.2Nm Modes); HOTO 24-in-1 Pen Driver = Manual Hand-Turn Only (Zero Battery); winner: Fanttik E1 Max Electric. Fanttik spins out long laptop screws effortlessly; HOTO never needs charging.
-- Bit Quantity & Storage: Fanttik E1 Max Electric = 50 Magnetic Bits (Pop-Up Case); HOTO 24-in-1 Pen Driver = 24-in-1 (12 Double-Ended in Handle); winner: Fanttik E1 Max Electric. Fanttik covers nearly every console and PC bit; HOTO packs 24 tips inside the pen.
-- Pocket Portability: Fanttik E1 Max Electric = Bulky Separate Case + Driver; HOTO 24-in-1 Pen Driver = 60g Single Pen Body (Pocket-Ready); winner: HOTO 24-in-1 Pen Driver. HOTO weighs just 60g with all bits hidden inside the barrel.
-- Work Light (Shadowless): Fanttik E1 Max Electric = Built-in LED Light; HOTO 24-in-1 Pen Driver = No LED Light; winner: Fanttik E1 Max Electric. Working inside dark PC cases is vastly easier with Fanttik's LED illumination.
-- Fatal flaw, Fanttik E1 Max Electric: Wider pop-up case takes up more space; 0.2Nm motor isn't meant for heavy desktop chassis screws.
-- Fatal flaw, HOTO 24-in-1 Pen Driver: Manual-only with no motor or LED light; double-ended bits are shorter for deep recessed holes.
-- Buy Fanttik E1 Max Electric if: You repair electronics regularly and want 50 bits with motorized speed and an LED light.
-- Buy HOTO 24-in-1 Pen Driver if: You want a $19 ultra-light 60g pen driver that lives in your pocket and never needs charging.
+## Fanttik E1 MAX Electric vs HOTO Screwdriver Pen (Manual) (DESK SETUP / REPAIR TOOLS) — https://miorek7.github.io/miorek-lab/#08_precision_screwdrivers
+- Prices (USD list): Fanttik E1 MAX Electric $79; HOTO Screwdriver Pen (Manual) $19
+- Drive Mechanism: Fanttik E1 MAX Electric = Electric 200 RPM (0.05 / 0.2 N·m); HOTO Screwdriver Pen (Manual) = Manual Only (No Battery); winner: Fanttik E1 MAX Electric. The E1 MAX spins screws out at 200 RPM in two torque gears; the HOTO pen is turned by hand.
+- Bit Count: Fanttik E1 MAX Electric = 50 S2 Magnetic Bits; HOTO Screwdriver Pen (Manual) = 24 S2 Steel Bits; winner: Fanttik E1 MAX Electric. Fanttik includes 50 S2 bits; HOTO includes 24 S2-steel bits.
+- Bit Storage: Fanttik E1 MAX Electric = Separate Aluminum Magnetic Case; HOTO Screwdriver Pen (Manual) = Stored Inside the Pen Body; winner: HOTO Screwdriver Pen (Manual). HOTO keeps its bits in a magnetic compartment inside the pen; Fanttik's bits live in a separate case.
+- List Price: Fanttik E1 MAX Electric = $79 (Fanttik List); HOTO Screwdriver Pen (Manual) = $19 (HOTO Store); winner: HOTO Screwdriver Pen (Manual). HOTO is $60 cheaper at list price; Fanttik's own store currently has the E1 MAX on sale for $39.99.
+- Fatal flaw, Fanttik E1 MAX Electric: Needs its 350mAh battery charged, motor torque tops out at 0.2 N·m, and the bits ride in a separate case.
+- Fatal flaw, HOTO Screwdriver Pen (Manual): Manual only: no motor and no LED light, with 24 bits instead of 50.
+- Buy Fanttik E1 MAX Electric if: You repair electronics often and want 50 bits, a 200 RPM motor and built-in LED lights.
+- Buy HOTO Screwdriver Pen (Manual) if: You want a $19 aluminum pen that keeps its 24 bits inside and never needs charging.
 
 As an Amazon Associate, MIOREK LAB earns from qualifying purchases. Independent lab analysis — never sponsored.
