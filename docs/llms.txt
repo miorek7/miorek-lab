@@ -2,16 +2,16 @@
 
 > Independent, never-sponsored head-to-head spec comparisons. Each entry: 4-spec matrix with winner, one fatal flaw per product, and a buy-if verdict.
 
-## Oura Ring 4 vs Galaxy Ring (WEARABLE TECH) — https://miorek7.github.io/miorek-lab/#01_smart_rings
-- Prices (USD list): Oura Ring 4 $349; Galaxy Ring $399
-- Subscription Fee: Oura Ring 4 = $5.99 / mo ($72/yr); Galaxy Ring = $0 (Free Forever); winner: Galaxy Ring. Oura costs $565+ over 3 years. Galaxy Ring has zero recurring fees.
-- OS Compatibility: Oura Ring 4 = iOS & Android; Galaxy Ring = Android Only (Best w/ Samsung); winner: Oura Ring 4. iPhone users cannot use Galaxy Ring at all.
-- Sleep & Recovery Algorithm: Oura Ring 4 = Clinical-Grade (Recessed Sensors); Galaxy Ring = Good, Basic AI Coaching; winner: Oura Ring 4. Oura's illness detection and HRV accuracy still lead the market.
-- Charging Case: Oura Ring 4 = Flat Desk Dock Only; Galaxy Ring = Portable Battery Case (LED); winner: Galaxy Ring. Samsung gives you a true wireless earbud-style travel charger.
-- Fatal flaw, Oura Ring 4: Useless paperweight without paying the $5.99/mo membership.
-- Fatal flaw, Galaxy Ring: Completely locked out of iOS; core AI features require a Galaxy phone.
-- Buy Oura Ring 4 if: You use an iPhone OR want the most accurate sleep/recovery data money can buy.
-- Buy Galaxy Ring if: You use Android/Samsung and refuse to pay a monthly subscription for your own body data.
+## Oura Ring 4 vs Samsung Galaxy Ring (WEARABLE TECH) — https://miorek7.github.io/miorek-lab/#01_smart_rings
+- Prices (USD list): Oura Ring 4 $349; Samsung Galaxy Ring $399
+- Subscription Fee: Oura Ring 4 = $5.99/mo or $69.99/yr; Samsung Galaxy Ring = No Subscription; winner: Samsung Galaxy Ring. Over 3 years Oura costs $349 + $209.97 membership = $558.97; Galaxy Ring has no recurring fee.
+- Phone Compatibility: Oura Ring 4 = iOS & Android; Samsung Galaxy Ring = Android Only (Samsung Health); winner: Oura Ring 4. Galaxy Ring needs an Android phone that runs Samsung Health; it does not work with iPhone.
+- Battery Life: Oura Ring 4 = 5-8 Days (Varies by Size); Samsung Galaxy Ring = Up to 6-7 Days (Varies by Size); winner: Oura Ring 4. Oura rates the Ring 4 at 5-8 days; Samsung rates sizes 5-11 at up to 6 days and sizes 12-13 at up to 7.
+- Charger: Oura Ring 4 = Size-Specific Charging Dock; Samsung Galaxy Ring = Charging Case (361mAh Battery); winner: Samsung Galaxy Ring. Galaxy Ring's case carries its own battery for charging on the go; Oura Ring 4 ships with a dock.
+- Fatal flaw, Oura Ring 4: Without the $5.99/mo membership the app shows only three daily scores (Sleep, Readiness, Activity); the newer Oura Ring 5 is $399.
+- Fatal flaw, Samsung Galaxy Ring: No iPhone support at all, and Samsung's US store currently lists some sizes as out of stock.
+- Buy Oura Ring 4 if: You use an iPhone, or want 5-8 day battery life and don't mind paying $69.99 a year.
+- Buy Samsung Galaxy Ring if: You use Android and want no subscription plus a charging case with its own battery.
 
 ## Sony WF-1000XM5 vs Technics EAH-AZ80 (AUDIOPHILE / BINAURAL TEST) — https://miorek7.github.io/miorek-lab/#02_flagship_tws
 - Prices (USD list): Sony WF-1000XM5 $299; Technics EAH-AZ80 $299
