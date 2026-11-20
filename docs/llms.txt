@@ -90,4 +90,26 @@
 - Buy Fanttik E1 MAX Electric if: You repair electronics often and want 50 bits, a 200 RPM motor and built-in LED lights.
 - Buy HOTO Screwdriver Pen (Manual) if: You want a $19 aluminum pen that keeps its 24 bits inside and never needs charging.
 
+## Moondrop CHU II vs 7Hz x Crinacle Zero:2 (AUDIO / WIRED IEMS) — https://miorek7.github.io/miorek-lab/#09_budget_iems
+- Prices (USD list): Moondrop CHU II $18; 7Hz x Crinacle Zero:2 $24
+- Impedance: Moondrop CHU II = 18Ω; 7Hz x Crinacle Zero:2 = 32Ω; winner: Moondrop CHU II. Lower impedance is easier to drive from a phone or a small USB-C dongle.
+- Sensitivity: Moondrop CHU II = 119dB/Vrms; 7Hz x Crinacle Zero:2 = 108dB/V; winner: Moondrop CHU II. Moondrop's rating is 11 dB higher per volt, so CHU II plays louder at the same volume setting.
+- Rated Low-End Limit: Moondrop CHU II = 15Hz (15Hz-38kHz); 7Hz x Crinacle Zero:2 = 10Hz (10Hz-20kHz); winner: 7Hz x Crinacle Zero:2. Zero:2 is rated down to 10Hz; CHU II is rated from 15Hz but extends higher, to 38kHz.
+- List Price: Moondrop CHU II = $18 (Launch MSRP); 7Hz x Crinacle Zero:2 = $24 (Linsoul); winner: Moondrop CHU II. CHU II launched at $18.99 and now sells for about $22.99 at Linsoul; Zero:2 lists at $24.99.
+- Fatal flaw, Moondrop CHU II: Moondrop lists only the IEMs, one 3.5mm cable and a storage bag in the box (no mic listed), and retail has crept up to about $22.99.
+- Fatal flaw, 7Hz x Crinacle Zero:2: Rated 32Ω / 108dB/V, so it needs more volume than CHU II, and Linsoul's standard listing is 3.5mm with no mic.
+- Buy Moondrop CHU II if: You want the easiest-to-drive, lowest-priced wired IEM for a phone or USB-C dongle.
+- Buy 7Hz x Crinacle Zero:2 if: You want Crinacle's Zero:2 tuning with a rated 10Hz low end and can spend about $6 more.
+
+## Anker Prime Charger 100W vs UGREEN Nexode 100W 4-Port (TRAVEL / CHARGERS) — https://miorek7.github.io/miorek-lab/#10_travel_chargers
+- Prices (USD list): Anker Prime Charger 100W $69; UGREEN Nexode 100W 4-Port $54
+- Ports: Anker Prime Charger 100W = 2× USB-C + 1× USB-A; UGREEN Nexode 100W 4-Port = 3× USB-C + 1× USB-A; winner: UGREEN Nexode 100W 4-Port. UGREEN adds a fourth port; both deliver up to 100W from a single USB-C port.
+- Weight: Anker Prime Charger 100W = 170g (6 oz); UGREEN Nexode 100W 4-Port = 210g (7.4 oz); winner: Anker Prime Charger 100W. Anker is 40g lighter in a travel bag.
+- Body Size: Anker Prime Charger 100W = 43.5 × 29 × 67.8 mm; UGREEN Nexode 100W 4-Port = 70.8 × 42.9 × 32.7 mm; winner: Anker Prime Charger 100W. About 85.5 cm³ for Anker vs 99.3 cm³ for UGREEN (prongs excluded).
+- List Price: Anker Prime Charger 100W = $69 (Anker List); UGREEN Nexode 100W 4-Port = $54 (UGREEN Store); winner: UGREEN Nexode 100W 4-Port. UGREEN lists at $54.99 vs $69.99; Anker's own store has a Black Friday price of $45.99 through Nov 30.
+- Fatal flaw, Anker Prime Charger 100W: Only three ports, total output drops to 89W with all three in use, and it lists $15 higher.
+- Fatal flaw, UGREEN Nexode 100W 4-Port: 40g heavier and bulkier, and UGREEN's US product page does not spell out its multi-port power split.
+- Buy Anker Prime Charger 100W if: You want the smallest, lightest 100W charger (170g) for a laptop bag.
+- Buy UGREEN Nexode 100W 4-Port if: You charge four devices at once and want the lower $54.99 list price.
+
 As an Amazon Associate, MIOREK LAB earns from qualifying purchases. Independent lab analysis — never sponsored.
