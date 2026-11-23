@@ -13,16 +13,16 @@
 - Buy Oura Ring 4 if: You use an iPhone, or want 5-8 day battery life and don't mind paying $69.99 a year.
 - Buy Samsung Galaxy Ring if: You use Android and want no subscription plus a charging case with its own battery.
 
-## Sony WF-1000XM5 vs Technics EAH-AZ80 (AUDIOPHILE / BINAURAL TEST) — https://miorek7.github.io/miorek-lab/#02_flagship_tws
-- Prices (USD list): Sony WF-1000XM5 $299; Technics EAH-AZ80 $299
-- Active Noise Cancelling: Sony WF-1000XM5 = Industry #1 (Foam Tips); Technics EAH-AZ80 = Top-Tier (Silicone Tips); winner: Sony WF-1000XM5. Sony deletes low-end subway and cabin rumble more aggressively.
-- Binaural L/R Separation: Sony WF-1000XM5 = Warm, Center-Focused; Technics EAH-AZ80 = 10mm Free-Edge Wide Stage; winner: Technics EAH-AZ80. Technics reveals pinpoint Left/Right instrument layering without mud.
-- Multipoint Connection: Sony WF-1000XM5 = 2 Devices Max; Technics EAH-AZ80 = 3 Devices Simultaneously; winner: Technics EAH-AZ80. AZ80 switches between PC, Phone, and Tablet seamlessly.
-- Ear Tip Comfort & Durability: Sony WF-1000XM5 = Polyurethane (Degrades in 6mo); Technics EAH-AZ80 = 7 Sizes Medical Silicone; winner: Technics EAH-AZ80. Sony's stock foam tips trap sweat and crumble over time.
-- Fatal flaw, Sony WF-1000XM5: Glossy slippery shell is easy to drop; stock foam tips wear out fast.
-- Fatal flaw, Technics EAH-AZ80: Slightly larger charging case and less aggressive high-frequency ANC than Sony.
-- Buy Sony WF-1000XM5 if: You prioritize maximum noise isolation on flights and heavy bass punch.
-- Buy Technics EAH-AZ80 if: You want audiophile Left/Right separation, 3-way multipoint, and all-day comfort.
+## Sony WF-1000XM6 vs Technics EAH-AZ100 (AUDIO / FLAGSHIP EARBUDS) — https://miorek7.github.io/miorek-lab/#02_flagship_tws
+- Prices (USD list): Sony WF-1000XM6 $329; Technics EAH-AZ100 $299
+- Multipoint: Sony WF-1000XM6 = Multipoint (Count Not Published); Technics EAH-AZ100 = Up to 3 Devices; winner: Technics EAH-AZ100. Technics officially supports 3 devices at once; Sony's spec pages list multipoint without a device count.
+- Battery (Earbuds, NC On): Sony WF-1000XM6 = Up to 8 Hrs; Technics EAH-AZ100 = Up to 10 Hrs (AAC); winner: Technics EAH-AZ100. Technics drops to about 7 hrs with LDAC; Sony rates up to 8 hrs with NC on and 12 hrs off.
+- Earbud Weight: Sony WF-1000XM6 = 6.5g; Technics EAH-AZ100 = 5.9g; winner: Technics EAH-AZ100. Per earbud: Sony about 6.5g with medium tips; Technics about 5.9g.
+- List Price: Sony WF-1000XM6 = $329 (Sony); Technics EAH-AZ100 = $299 (Technics); winner: Technics EAH-AZ100. Sony launched the WF-1000XM6 at $329.99 in February 2026; Technics lists the AZ100 at $299.99.
+- Fatal flaw, Sony WF-1000XM6: Costs $30 more, and on paper its 8-hour earbud battery and 6.5g weight trail the AZ100.
+- Fatal flaw, Technics EAH-AZ100: Battery falls to about 7 hours when you use LDAC with noise cancelling on.
+- Buy Sony WF-1000XM6 if: You want Sony's newest flagship noise-cancelling earbuds, launched in February 2026.
+- Buy Technics EAH-AZ100 if: You want 3-device multipoint, LDAC and LC3, a 5.9g earbud and the lower $299.99 price.
 
 ## Anker Prime 200W vs UGREEN Nexode 130W (DESK & EDC POWER) — https://miorek7.github.io/miorek-lab/#03_power_banks
 - Prices (USD list): Anker Prime 200W $139; UGREEN Nexode 130W $89
